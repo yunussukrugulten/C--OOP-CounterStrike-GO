@@ -1,0 +1,16 @@
+C:\Users\Vaio\Downloads\Compressed\OOP-CSGO-master\OOP-CSGO-master\OOP-CSGO\bin\Debug\net5.0\OOP-CounterStrike-GO.exe
+C:\Users\Vaio\Downloads\Compressed\OOP-CSGO-master\OOP-CSGO-master\OOP-CSGO\bin\Debug\net5.0\OOP-CounterStrike-GO.deps.json
+C:\Users\Vaio\Downloads\Compressed\OOP-CSGO-master\OOP-CSGO-master\OOP-CSGO\bin\Debug\net5.0\OOP-CounterStrike-GO.runtimeconfig.json
+C:\Users\Vaio\Downloads\Compressed\OOP-CSGO-master\OOP-CSGO-master\OOP-CSGO\bin\Debug\net5.0\OOP-CounterStrike-GO.runtimeconfig.dev.json
+C:\Users\Vaio\Downloads\Compressed\OOP-CSGO-master\OOP-CSGO-master\OOP-CSGO\bin\Debug\net5.0\OOP-CounterStrike-GO.dll
+C:\Users\Vaio\Downloads\Compressed\OOP-CSGO-master\OOP-CSGO-master\OOP-CSGO\bin\Debug\net5.0\ref\OOP-CounterStrike-GO.dll
+C:\Users\Vaio\Downloads\Compressed\OOP-CSGO-master\OOP-CSGO-master\OOP-CSGO\bin\Debug\net5.0\OOP-CounterStrike-GO.pdb
+C:\Users\Vaio\Downloads\Compressed\OOP-CSGO-master\OOP-CSGO-master\OOP-CSGO\obj\Debug\net5.0\OOP-CounterStrike-GO.csproj.AssemblyReference.cache
+C:\Users\Vaio\Downloads\Compressed\OOP-CSGO-master\OOP-CSGO-master\OOP-CSGO\obj\Debug\net5.0\OOP-CounterStrike-GO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vaio\Downloads\Compressed\OOP-CSGO-master\OOP-CSGO-master\OOP-CSGO\obj\Debug\net5.0\OOP-CounterStrike-GO.AssemblyInfoInputs.cache
+C:\Users\Vaio\Downloads\Compressed\OOP-CSGO-master\OOP-CSGO-master\OOP-CSGO\obj\Debug\net5.0\OOP-CounterStrike-GO.AssemblyInfo.cs
+C:\Users\Vaio\Downloads\Compressed\OOP-CSGO-master\OOP-CSGO-master\OOP-CSGO\obj\Debug\net5.0\OOP-CounterStrike-GO.csproj.CoreCompileInputs.cache
+C:\Users\Vaio\Downloads\Compressed\OOP-CSGO-master\OOP-CSGO-master\OOP-CSGO\obj\Debug\net5.0\OOP-CounterStrike-GO.dll
+C:\Users\Vaio\Downloads\Compressed\OOP-CSGO-master\OOP-CSGO-master\OOP-CSGO\obj\Debug\net5.0\ref\OOP-CounterStrike-GO.dll
+C:\Users\Vaio\Downloads\Compressed\OOP-CSGO-master\OOP-CSGO-master\OOP-CSGO\obj\Debug\net5.0\OOP-CounterStrike-GO.pdb
+C:\Users\Vaio\Downloads\Compressed\OOP-CSGO-master\OOP-CSGO-master\OOP-CSGO\obj\Debug\net5.0\OOP-CounterStrike-GO.genruntimeconfig.cache
